@@ -1,6 +1,6 @@
-#Python Summer Olympic data Analysis
+# Python Summer Olympic data Analysis
 
-##Introduction
+## Introduction
 
 This was the Assignment from Elite Techno group. In this, I have to solve the following questions-
 
@@ -20,10 +20,10 @@ This was the Assignment from Elite Techno group. In this, I have to solve the fo
 
 8.Which sport is having most female Gold Medalists? (Top 5)
 
-##About Project
+## About Project
 
 For Data Analysis, Pandas is used. The raw data of summer olympic and questions is given from our instructor. We have to give the answers and also plot graph in some.
 
-##About me
+## About me
 
 I am Aakash Raj, a Electronics & Communication Engineering Student. I love doing projects and coding.
